@@ -1,0 +1,16 @@
+﻿{
+    "name": "edge-downloads-routing-lambda",
+    "version": "0.0.1",
+    "description": "Provides routing for download pages",
+    "main": "index.js",
+    "author": "Oded Baruch",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "aws-sdk": "^2.370.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "echo DONE"
+    }
+}
